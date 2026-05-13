@@ -2,6 +2,8 @@ from flask import Flask, render_template, request, redirect, url_for, session
 from auth import register_user, login_user
 from database import create_table
 
+# test
+
 app.secret_key = "super_secret_key"
 
 @app.route("/")

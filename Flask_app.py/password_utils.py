@@ -57,7 +57,7 @@ def password_strength_checker(input_password):
         suggestion.append("Insert symbols.")
 
     return strength,suggestion
-
+# test
 
 
 
