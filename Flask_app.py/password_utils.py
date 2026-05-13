@@ -58,6 +58,7 @@ def password_strength_checker(input_password):
 
     return strength,suggestion
 # test
+# test
 
 
 
